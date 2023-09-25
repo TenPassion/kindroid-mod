@@ -3,11 +3,12 @@
 // @version      1.0
 // @description  Modify background, sound notification, chat opacity, user and kin name on top.
 // @author       TemPassion
-// @homepageURL  https://github.com/TenPassion/kindroid-mod
+// @homepageURL  https://github.com/TenPassion/kindroid-script
 // @license      MIT
 // @match        https://kindroid.ai/home
 // @grant        GM_setValue
 // @grant        GM_getValue
+// @namespace http://tampermonkey.net/
 // ==/UserScript==
 
 (function () {
@@ -179,6 +180,8 @@
         GM_setValue('opacityValue', opacityValue);
         const isChecked = enableNotificationsCheckbox.checked;
         GM_setValue('enableNotifications', isChecked);
+        location.reload();
+
         closeOptions();
 
         // Jouer le son des notifications avec le son sélectionné

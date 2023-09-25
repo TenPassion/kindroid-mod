@@ -7,7 +7,7 @@ Welcome to the Kinroid Script repository! This script enhances your experience o
 
 ## Features
 
-- **Username and Kin Display:** This script adds your username and your Kin's name directly to the header, making it easier to identify your conversations.
+- **Username and Kin Display:** This script adds your username and your Kin's name directly to the header.
 
 - **Chat Opacity Control:** It includes a feature that allows you to adjust the opacity of the chat, giving you more control over your chat experience.
 

@@ -3,7 +3,7 @@
 // @version      1.0
 // @description  Modify background, sound notification, chat opacity, user and kin name on top.
 // @author       TemPassion
-// @homepageURL  https://github.com/TenPassion/kindroid-script
+// @homepageURL  https://github.com/TenPassion/kindroid-mod
 // @license      MIT
 // @match        https://kindroid.ai/home
 // @grant        GM_setValue

@@ -16,7 +16,7 @@ Welcome to the Kinroid Script repository! This script enhances your experience o
 
 To use this script, you'll need a script manager extension like Tampermonkey, Violentmonkey, or a similar one. Follow these steps to install:
 
-1. Click on the [[Script Link]](https://greasyfork.org/fr/scripts/475657-kindroid-mod)(#) to access the script.
+1. Click on the [Script Link](https://greasyfork.org/fr/scripts/475657-kindroid-mod) to access the script.
 
 2. Click the "Install" button in your script manager when prompted.
 
@@ -34,7 +34,10 @@ This project is licensed under the [MIT License](#). Feel free to use, modify, a
 
 ---
 
-Thank you for using Kinroid Script! If you have any questions or encounter issues, please create a GitHub issue or contact us at [Your Email Address].
+Thank you for using Kinroid Script! If you have any questions or encounter issues, please create a GitHub issue or contact me.
 
-[Optional: Add screenshots or GIFs to showcase the script in action]
+
+
+![Screenshot_20230925_053136](https://github.com/TenPassion/kindroid-mod/assets/142400798/02d5ef3b-8cb6-473d-9337-a2828c60d421)
+
 

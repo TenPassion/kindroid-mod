@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Kindroid Mod
+// @name         Kindroid Script
 // @version      1.0
 // @description  Modify background, sound notification, chat opacity, user and kin name on top.
 // @author       TemPassion

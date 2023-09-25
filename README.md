@@ -3,7 +3,7 @@
 
 # Kindroid Mod 1.0
 
-Welcome to the Kinroid Script repository! This script enhances your experience on [kindroid.ai] by adding useful features to your user interface.
+Welcome to the Kinrdoid Script repository! This script enhances your experience on [kindroid.ai] by adding useful features to your user interface.
 
 ## Features
 

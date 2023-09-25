@@ -1,3 +1,6 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/tenpassion/kindroid-mod?color=red&style=plastic)  ![GitHub stars](https://img.shields.io/github/stars/tenpassion/kindroid-mod?style=plastic)  [![visitors](https://visitor-badge.laobi.icu/badge?page_id=TenPassion) ](https://visitor-badge.laobi.icu/badge?page_id=TenPassion.kindroid-mod)  
+<span class="badge-buymeacoffee"> <a href="https://www.buymeacoffee.com/tenpassion" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg" alt="Buy Me A Coffee donate button" /></a> </span> <span class="badge-patreon"><a href="https://www.patreon.com/TenPassion" title="Donate to this project using Patreon"> <img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
+
 # Kinroid Script 1.0
 
 Welcome to the Kinroid Script repository! This script enhances your experience on [kindroid.ai] by adding useful features to your user interface.
@@ -36,8 +39,7 @@ This project is licensed under the [MIT License](#). Feel free to use, modify, a
 
 Thank you for using Kinroid Script! If you have any questions or encounter issues, please create a GitHub issue or contact me.
 
+![Screenshot_20230925_053546](https://github.com/TenPassion/kindroid-mod/assets/142400798/ab5230a7-1f02-46b2-a910-42a1c369380a)
 
-
-![Screenshot_20230925_053136](https://github.com/TenPassion/kindroid-mod/assets/142400798/02d5ef3b-8cb6-473d-9337-a2828c60d421)
 
 

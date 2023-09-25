@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Kindroid Script
+// @name         Kindroid Mod
 // @version      1.0
 // @description  Modify background, sound notification, chat opacity, user and kin name on top.
 // @author       TemPassion
@@ -194,7 +194,7 @@
     });
 
     const customImageButton = document.createElement('button');
-    customImageButton.textContent = '👘';
+    customImageButton.textContent = '😈';
     customImageButton.style.position = 'fixed';
     customImageButton.style.bottom = '10px';
     customImageButton.style.right = '10px';
